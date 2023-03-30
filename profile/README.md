@@ -2,12 +2,24 @@
 
 ```mermaid
 sequenceDiagram
-    Source Code->>+Unit PreProcessor: Code
-    Unit PreProcessor->>+ChatGPT: Data cleaned
-    ChatGPT-->-Unit Prompter: Data
-    Unit Prompter->>+LLM: Lora
-    Unit Runtime->>+LLM: Prompt
-    LLM-->-Unit Runtime: Code snippets (Unit)
+    participant Source Code
+    participant Unit PreProcessor
+    participant GPT
+    participant Custom LLM
+    participant Unit Prompter
+    participant Unit Runtime
+    participant Human
+
+    Source Code->>+Unit PreProcessor: Source code
+    Unit PreProcessor->>+GPT: Processed code
+    GPT-->-Custom LLM: Data cleaned
+    Unit Prompter->>+Custom LLM: Lora
+    Human->>+Unit Runtime: Requirements
+    Unit Runtime->>+Custom LLM: Prompt
+    Custom LLM->>-Unit Runtime: Code snippets (Unit)
+    Unit Runtime->>-Human: Services, component  (Unit)
+    Human->>+Human: Test, verify and modify code (Unit)
+    Human->>+SCM: Push code
 ```
 
 
