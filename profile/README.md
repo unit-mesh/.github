@@ -4,7 +4,7 @@ our projects:
 
 - LLM + LoRA: [DevTi](https://github.com/unit-mesh/devti)
 - IDE plugin: [AutoDev](https://github.com/unit-mesh/auto-dev)
-
+- VS Code plugin: [auto-dev-vscode](https://github.com/unit-mesh/auto-dev-vscode)
 
 ```mermaid
 sequenceDiagram
