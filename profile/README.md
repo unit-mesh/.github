@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+our projects:
+
+- LLM + LoRA: [DevTi](https://github.com/unit-mesh/devti)
+- IDE plugin: [AutoDev](https://github.com/unit-mesh/auto-dev)
+
+
 ```mermaid
 sequenceDiagram
     participant Source Code
