@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+for [QCon](https://github.com/unit-mesh/conf)
+
 our projects:
 
 - LLM + LoRA: [DevTi](https://github.com/unit-mesh/devti)
