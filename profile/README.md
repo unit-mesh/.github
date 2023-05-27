@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-for [QCon](https://github.com/unit-mesh/conf)
+会议相关问题 --> [QCon](https://github.com/unit-mesh/conf)
 
 our projects:
 
