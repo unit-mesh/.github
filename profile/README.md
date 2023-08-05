@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-会议相关问题 --> [QCon](https://github.com/unit-mesh/conf)
-
 our projects:
 
 - LLM + LoRA: [DevTi](https://github.com/unit-mesh/devti)
 - IDE plugin: [AutoDev](https://github.com/unit-mesh/auto-dev)
 - VS Code plugin: [auto-dev-vscode](https://github.com/unit-mesh/auto-dev-vscode)
+
+会议相关问题 --> [QCon](https://github.com/unit-mesh/conf)
 
 ```mermaid
 sequenceDiagram
