@@ -26,7 +26,7 @@ journey
     section AI Engineering Infra
       Unit Agent: 1: Engineer    
       Unit Runtime: 3: Engineer
-      Chocolate Factory 5: Engineer
+      Chocolate Factory: 5: Engineer
     section Multiple's Teams
       CoUnit: 4: Developer
 ```
