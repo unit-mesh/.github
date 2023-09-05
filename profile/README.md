@@ -11,6 +11,7 @@ Our projects:
 | LSP Agent                       | Unit Agent     | [Unit Agent](https://github.com/unit-mesh/unit-agent)     | the Unit Mesh agent for Language Server Protocol, Agent proxy... |
 | Code Interpreter                | Unit Runtime   | [Unit Runtime](https://github.com/unit-mesh/unit-runtime) | Unit Runtime is an efficient and user-friendly AI code execution environment that allows for one-click startup and real-time interaction, helping you quickly build and test AI code.  |
 | VSCode plugin for developer     | VS Code plugin | [auto-dev-vscode](https://github.com/unit-mesh/auto-dev-vscode)  | VSCode plugin ...      |
+| LLM Framework                   | Chocolate Factory | [Chocolate Factory](https://github.com/unit-mesh/chocolate-factory) |  Chocolate Factory is a cutting-edge LLM application engine designed to empower you in creating your very own AI assistant. |
 
 Full Landscape
 
@@ -25,6 +26,7 @@ journey
     section AI Engineering Infra
       Unit Agent: 1: Engineer    
       Unit Runtime: 3: Engineer
+      Chocolate Factory 5: Engineer
     section Multiple's Teams
       CoUnit: 4: Developer
 ```
