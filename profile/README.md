@@ -10,8 +10,8 @@ Our projects:
 | Collaboration AI for team       | CoUnit         | [CoUnit](https://github.com/unit-mesh/co-unit)            | Merge artificial intelligence seamlessly with team collaboration. Leverage intelligent vectorization to process documents, knowledge bases, SDKs, and APIs, empowering teams to unleash their creativity.  |
 | LSP Agent                       | Unit Agent     | [Unit Agent](https://github.com/unit-mesh/unit-agent)     | the Unit Mesh agent for Language Server Protocol, Agent proxy... |
 | Code Interpreter                | Unit Runtime   | [Unit Runtime](https://github.com/unit-mesh/unit-runtime) | Unit Runtime is an efficient and user-friendly AI code execution environment that allows for one-click startup and real-time interaction, helping you quickly build and test AI code.  |
-| VSCode plugin for developer     | VS Code plugin | [auto-dev-vscode](https://github.com/unit-mesh/auto-dev-vscode)  | VSCode plugin ...      |
-| AI Agent Framework              | Chocolate Factory | [Chocolate Factory](https://github.com/unit-mesh/chocolate-factory) |  Chocolate Factory is a cutting-edge LLM application engine designed to empower you in creating your very own AI assistant. |
+| VSCode plugin for developer     | VS Code plugin | [auto-dev-vscode](https://github.com/unit-mesh/auto-dev-vscode)  | VSCode plugin ... (Todo)      |
+| AI Agent Framework              | Chocolate Factory | [Chocolate Factory](https://github.com/unit-mesh/chocolate-factory) | Chocolate Factory is a cutting-edge LLM application engine designed to empower you in creating your very own AI assistant. |
 
 Full Landscape
 
@@ -36,15 +36,15 @@ LoRA work processes
 ```mermaid
 sequenceDiagram
     participant Source Code
-    participant Unit PreProcessor
+    participant DevTi
     participant GPT
     participant Custom LLM
     participant Unit Prompter
     participant Unit Runtime
     participant Human
 
-    Source Code->>+Unit PreProcessor: Source code
-    Unit PreProcessor->>+GPT: Processed code
+    Source Code->>+DevTi: Source code Processor
+    DevTi->>+GPT: Processed code
     GPT-->-Custom LLM: Data cleaned
     Unit Prompter->>+Custom LLM: Lora
     Human->>+Unit Runtime: Requirements
