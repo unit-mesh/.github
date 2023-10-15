@@ -22,8 +22,9 @@ journey
     title Unit Mesh Landscape
     section One Team
       AutoDev: 5: Developer
-    section AI Platform
-      OpenSource LLM: 5: Platform
+      DevOpsGenius: 3: Developer
+    section Model as a Service
+      OpenSource/Foundation LLM: 5: Platform
       LLM Lora process: 3: Platform
     section AI Engineering Infra
       Unit Agent: 1: Engineer    
