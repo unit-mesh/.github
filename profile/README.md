@@ -1,7 +1,7 @@
-## Hi there 👋
+## Welcome! 👋
 
-🙋‍♀️ Our architecture paradigm: [Unit Mesh](https://github.com/unit-mesh/unit-mesh)
+🌐 Embracing the forefront of GenAI/AIGC, we're on a mission to explore innovative software architectural paradigms.
 
-🙋‍♀️ Our objective is to delve into novel software architectural paradigms within the upcoming era of GenAI/AIGC.
+Explore our cutting-edge architectural paradigm, [Unit Mesh](https://github.com/unit-mesh/unit-mesh), and check out our open-source projects:
 
-<img src="https://unitmesh.cc/overview.svg" alt="Unit Mesh" style="width:100%;">
+![Unit Mesh Overview](https://unitmesh.cc/overview.svg)
