@@ -5,3 +5,5 @@
 Drawing inspiration from Thoughtworks's rich experience, we are actively exploring the cutting-edge architectural paradigm known as [Unit Mesh](https://github.com/unit-mesh/unit-mesh). Dive into the world of our open-source projects and be part of the evolution:
 
 ![Unit Mesh Overview](https://unitmesh.cc/overview.svg)
+
+`Notes`: Green indicates adoptable, yellow signifies small-scale trial completed, and gray denotes Proof of Concept (PoC) completed.
