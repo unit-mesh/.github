@@ -1,7 +1,7 @@
 ## Welcome! 👋
 
-🌐 Embracing the forefront of GenAI/AIGC, we're on a mission to explore innovative software architectural paradigms.
+🌐 Join us on the exciting journey at the forefront of GenAI/AIGC as we embark on a mission to delve into innovative software architectural paradigms.
 
-Explore our cutting-edge architectural paradigm, [Unit Mesh](https://github.com/unit-mesh/unit-mesh), and check out our open-source projects:
+Drawing inspiration from Thoughtworks's rich experience, we are actively exploring the cutting-edge architectural paradigm known as Unit Mesh](https://github.com/unit-mesh/unit-mesh). Dive into the world of our open-source projects and be part of the evolution:
 
 ![Unit Mesh Overview](https://unitmesh.cc/overview.svg)
