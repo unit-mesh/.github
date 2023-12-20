@@ -9,3 +9,5 @@ Drawing inspiration from Thoughtworks's rich experience, we are actively explori
 </p>
 
 `Notes`: Green indicates adoptable, yellow signifies small-scale trial completed, and gray denotes Proof of Concept (PoC) completed.
+
+Finetuned model download: [https://huggingface.co/unit-mesh/](https://huggingface.co/unit-mesh/)
